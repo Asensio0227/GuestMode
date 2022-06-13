@@ -418,6 +418,7 @@ RANDOM USER
 .values-list {
   display: grid;
   grid-template-columns: repeat(6,1fr);
+  justify-content: center;
 }
 .icon {
   color: var(--clr-secondary-3);
